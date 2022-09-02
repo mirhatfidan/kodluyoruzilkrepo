@@ -1,0 +1,4 @@
+.list-group {
+    --bs-list-group-border-color:white;
+    padding: 10px 0px !important;
+}
